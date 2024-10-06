@@ -17,7 +17,7 @@ const data=[
     image:IMG2,
     title:'World wise using Reactjs & Firebase',
     github:'https://github.com/krishnanandtutu/world_wise',
-    demo: 'https://github.com/krishnanandtutu/world_wise'
+    demo: 'https://worldwiseapplication.netlify.app/'
   },
   {
     id:3,
